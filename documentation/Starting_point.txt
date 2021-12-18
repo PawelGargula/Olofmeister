@@ -1,0 +1,18 @@
+What is your website about? 
+    Olof Kajbjer Gustafsson
+
+What information are you presenting on the subject? 
+Title: 
+    GOAT Counter Strike Global Offensive Player 
+Paragraphs: 
+    Olof "olofmeister" Kajbjer Gustafsson (formerly known as olofm) (born January 31, 1992) is a Swedish professional Counter-Strike: Global Offensive and former professional Counter-Strike player who plays for FaZe Clan as a supportive rifler. 
+    That comes after his legendary 3-year-long tenure with Fnatic, during which he won two Majors — ESL One: Katowice 2015 and ESL One: Cologne 2015 — and numerous other international tournaments, and was named the best player in the world of 2015.
+Photos: 
+    In folder img
+
+What does your website look like? 
+Background:
+    Img street.jpg
+Font:
+    Googlefont - Indie Flower
+Counter Strike font color: #f29e1d
