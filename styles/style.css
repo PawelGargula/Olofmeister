@@ -5,7 +5,11 @@ html {
 }
 
 body {
-  background-image: url("../images/unsplash/street/street.jpg");
+  background: url("../images/unsplash/street/street.jpg") no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h1 {
@@ -38,6 +42,7 @@ p {
   margin: 10px 20px;
   margin-bottom: 20px;
   padding: 10px;
+  text-align: justify;
 }
 
 a:link {
@@ -129,4 +134,10 @@ footer {
   color: rgba(255, 255, 255, 0.6);
   margin-top: 50px;
   text-align: center;
+}
+
+@media (max-width: 640px) {
+  li {
+    font-size: 13px;
+  }
 }
