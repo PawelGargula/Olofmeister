@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background: url("../images/unsplash/street/street.jpg") no-repeat center fixed;
+  background: url("../images/unsplash/street/street.jpg") no-repeat center center fixed; /*Photo by <a href="https://unsplash.com/@levimeirclancy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Levi Meir Clancy</a> on <a href="https://unsplash.com/s/photos/counter-strike?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
